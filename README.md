@@ -4,7 +4,7 @@ This project builds a smart AI coach that simulates interviews and gives constru
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 - Supports **Zero-Shot**, **Few-Shot**, and **Fine-Tuned** response modes
 - Controls tone and creativity using `temperature`, `frequency_penalty`, and `presence_penalty`
@@ -13,7 +13,7 @@ This project builds a smart AI coach that simulates interviews and gives constru
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 
 | Concept                 | Implemented ✅ |
 |-------------------------|----------------|
@@ -26,7 +26,7 @@ This project builds a smart AI coach that simulates interviews and gives constru
 
 ---
 
-## 📂 File Descriptions
+## File Descriptions
 
 - `app.py`: Core logic for question → response → feedback
 - `prompt_utils.py`: Manages different prompt styles (zero, few-shot)
